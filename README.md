@@ -3,7 +3,7 @@
 
 - Jupyter notebook: **Stock_Market_Analysis.ipynb**
 
-![StockMarket](Images/Stocks (1).jpg)
+![StockMarket](Images/stocks.jpg)
 
 ### Table of contents
 1. [Introduction](#introduction)
@@ -32,7 +32,7 @@ Data preprocessing included handling missing values, normalization, and transfor
 
 #### 2.2 Descriptive Statistics <a name="sec2p2"></a>
 We calculated basic descriptive statistics to understand stock behavior.
-![describeAll](Images/desc.png)
+![describeAll](Images/describe.png)
 
 
 ### 3. Time Series Forecasting <a name="section3"></a>
