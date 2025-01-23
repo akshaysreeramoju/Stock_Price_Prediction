@@ -3,7 +3,7 @@
 
 - Jupyter notebook: **Stock_Market_Analysis.ipynb**
 
-![StockMarket](Images/StockMarket.jpg)
+![StockMarket](Images/Stocks (1).jpg)
 
 ### Table of contents
 1. [Introduction](#introduction)
@@ -28,14 +28,18 @@ The dataset includes:
 
 #### 2.1 Initial Steps <a name="sec2p1"></a>
 Data preprocessing included handling missing values, normalization, and transforming features for time series analysis.
+![head](Images/head.png)
 
 #### 2.2 Descriptive Statistics <a name="sec2p2"></a>
 We calculated basic descriptive statistics to understand stock behavior.
+![describeAll](Images/desc.png)
+
 
 ### 3. Time Series Forecasting <a name="section3"></a>
 
 #### 3.1 LSTM Model <a name="sec3p1"></a>
 We used an **LSTM** model to predict stock prices. The model achieved 95% accuracy in predicting future prices.
+![Pairplot](Images/LSTM.png)
 
 ### 4. Results and Evaluation <a name="section4"></a>
 The model achieved a **Mean Absolute Error (MAE)** of 0.02, making it suitable for short-term stock price forecasting.
