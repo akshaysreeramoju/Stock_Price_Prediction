@@ -3,7 +3,7 @@
 
 - Jupyter notebook: **Stock_Market_Analysis.ipynb**
 
-![StockMarket](Images/stocks.jpg)
+![StockMarket](Images/stocks.png)
 
 ### Table of contents
 1. [Introduction](#introduction)
