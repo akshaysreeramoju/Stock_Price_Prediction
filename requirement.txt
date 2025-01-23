@@ -1,0 +1,39 @@
+# Create a virtual environment 
+python -m venv Analyze
+
+# Activate the virtual environment
+
+# Windows
+Analyze\Scripts\activate
+
+# install required packages
+
+
+# Data manipulation and analysis.
+
+pip install pandas
+
+
+#Fetch historical and real-time financial data
+
+pip install yfinance
+
+# Read and write Excel files in Python.
+
+pip install openpyxl
+
+
+pip install numpy
+
+pip install matplotlib
+
+pip install seaborn
+
+pip install scikit-learn
+
+pip install keras
+
+
+
+
+
